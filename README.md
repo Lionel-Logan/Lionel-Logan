@@ -103,7 +103,7 @@ I am proficient in various programming languages like **C, C++, Java, and Python
 - 🏛️ **Institution**: Govt. Model Engineering College, Kochi
 - 📍 **Location**: Kochi, Kerala, India
 - 🕐 **Timezone**: UTC +05:30
-- 🎂 **Profile**: 26-year-old Computer Science Graduate
+- 🎂 **Profile**: Computer Science Graduate
 
 ## 🤝 Let's Connect
 
