@@ -1,5 +1,14 @@
 # Hi there, I'm Navneet Ranjish Pillai 👋
 
+<p align="left">
+  <a href="https://navneetranjishpillai.vercel.app/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Portfolio-%23121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/navneet-ranjish-pillai/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ## 🚀 About Me
 
 I'm a passionate **Computer Science graduate** from **Govt. Model Engineering College, Kochi, India**, with a deep fascination for video game development and emerging technologies. As an aspiring **video-game developer**, I'm highly passionate and eager to learn about the new fascinating technologies emerging in my industry of study.
@@ -104,13 +113,6 @@ I am proficient in various programming languages like **C, C++, Java, and Python
 - 📍 **Location**: Kochi, Kerala, India
 - 🕐 **Timezone**: UTC +05:30
 - 🎂 **Profile**: Computer Science Graduate
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on innovative game development projects, discuss emerging technologies, or explore opportunities in the gaming industry. Whether you're interested in technical discussions, project collaborations, or mentorship opportunities, feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-ranjish-pillai/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lionel-Logan)
 
 ## 📊 GitHub Stats
 
