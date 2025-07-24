@@ -82,9 +82,8 @@ An immersive shooter/thriller experience built with Unreal Engine 5, featuring c
 - 🎭 Psychological thriller narrative elements
 - 🌟 State-of-the-art visual effects and lighting
 - 🎵 Immersive 3D audio design
-- 🏆 Competitive multiplayer capabilities
 
-**Tech Stack:** `Unreal Engine 5` `C++` `Blueprint` `3D Modeling` `Game Design`
+**Tech Stack:** `Unreal Engine 5` `Blueprint` `Game Design`
 
 ---
 
