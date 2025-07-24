@@ -25,7 +25,7 @@ I am proficient in various programming languages like **C, C++, Java, and Python
 ## 💼 Professional Experience
 
 ### 🎯 GDC MEC - Game Development Community
-**Campus Lead** *(Jan 2025 - Present)*  
+**Campus Lead** *(Jan 2025 - July 2025)*  
 **Tech Lead (Game Development)** *(Feb 2024 - Jan 2025)*
 - Leading game development initiatives and managing development teams
 - Mentoring aspiring game developers and organizing community events
