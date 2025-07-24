@@ -1,135 +1,192 @@
 # Hi there, I'm Navneet Ranjish Pillai 👋
 
-<p align="left">
-  <a href="https://navneetranjishpillai.vercel.app/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Portfolio-%23121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/navneet-ranjish-pillai/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Game%20Developer%20%7C%20Computer%20Engineer&fontSize=40&fontColor=fff&animation=twinkling)
 
-## 🚀 About Me
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Game+Developer+%26+Computer+Engineer;Unreal+Engine+Specialist;Full-Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-I'm a passionate **Computer Science graduate** from **Govt. Model Engineering College, Kochi, India**, with a deep fascination for video game development and emerging technologies. As an aspiring **video-game developer**, I'm highly passionate and eager to learn about the new fascinating technologies emerging in my industry of study.
+</div>
 
-I am proficient in various programming languages like **C, C++, Java, and Python**, and highly skilled in **Game Design and Gameplay Programming** using **Unreal Engine**, with prior experience in **Unity Engine and C#**. I have always found Computer Science as an industry of great opportunities, fascinating technology, emerging and innovative discoveries, and would work hard to keep up with the pace of its evolution.
+## 🎮 About Me
 
-## 🎯 Current Focus
+I'm a **B.Tech Computer Science and Engineering** student at **Govt. Model Engineering College, Kochi**, passionate about creating immersive gaming experiences and innovative software solutions. With a strong foundation in multiple programming languages and specialized expertise in game development, I'm constantly pushing the boundaries of interactive entertainment.
 
-- 🎓 **Computer Science Graduate** (B.Tech, 2022-2026) with **9.20 GPA**
-- 🎮 **Game Development Leader** at GDC MEC
-- 🛠️ Building innovative gaming solutions and leading development teams
-- 📚 Continuously exploring cutting-edge technologies in game development
+- 🎯 **Currently Focusing On:** Game Development & Computer Engineering
+- 🎓 **Education:** B.Tech CSE at Model Engineering College, Kochi
+- 🌍 **Location:** Kochi, Kerala, India
+- 🎮 **Specialty:** Game & Gameplay Programming with Unreal Engine
+- 🤖 **Interests:** AI Development, Interactive Entertainment, Software Engineering
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/navneet-ranjish-pillai-50a612257), [Portfolio](https://navneetranjishpillai.vercel.app)
 
-## 💼 Professional Experience
+## 🛠️ Tech Stack & Skills
 
-### 🎯 GDC MEC - Game Development Community
-**Campus Lead** *(Jan 2025 - July 2025)*  
-**Tech Lead (Game Development)** *(Feb 2024 - Jan 2025)*
-- Leading game development initiatives and managing development teams
-- Mentoring aspiring game developers and organizing community events
-- Spearheading innovative game projects and technical workshops
-
-## 🎓 Education
-
-### 🏛️ Model Engineering College (2022 - 2026)
-**Bachelor of Technology - B.Tech, Computer Science**
-- **Current GPA**: 9.20 (as of 5th semester)
-- **Key Subjects**: Computer Architecture, Data Structures, and 11+ specialized skills
-
-### 🏫 Toc H Public School (Jun 2012 - May 2022)
-**Mathematics and Computer Science**
-- **Grade**: 96%
-- **Skills**: Microsoft Office, Python Programming, and 3+ additional skills
-
-## 💻 Technical Skills & Certifications
+<div align="center">
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Game Development Engines
-- **Unreal Engine** - Advanced proficiency in game design and development
-- **Unity Engine** - Prior experience with C# integration
-- **Game Programming** - Gameplay mechanics and system architecture
-- **Object-Oriented Programming (OOP)** - Advanced concepts and implementation
+### Game Development
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### 🏆 Certifications
-- **Programming in Modern C++** | NPTEL (Elite + Silver) | **Topper**
-- **Object-Oriented Programming (OOP)** | Advanced Certification
-- Credential ID: NPTEL24CS44S12553004438
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI & Machine Learning
+![GenAI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
 
 ## 🎮 Featured Projects
 
-### 🎯 Heavy Duty *(Sep 2020 - Dec 2020)*
-*Horror Game with Enhanced Storytelling*
-- Developed a horror game focusing on storytelling and improved gameplay mechanics
-- Implemented advanced **Object-Oriented Programming (OOP)** concepts
-- **Technologies**: Game Development, OOP, and 4+ specialized skills
-- **Platform**: Available on itch.io
+### 🧳 [SyncTrek](https://navneetranjishpillai.vercel.app)
+> **Personal Multi-Agent AI Powered Itinerary Generation Mobile App**
 
-### 😴 Sleep Tight *(Jul 2020 - Aug 2020)*
-*Collaborative Game Development Project*
-- Initiated during 11th grade with friends as a productive Computer Science venture
-- Built while constantly connected through various video games, naturally transitioning to game development
-- **Technologies**: Object-Oriented Programming (OOP), Game Development, and 5+ skills
-- **Achievement**: Early demonstration of leadership and technical skills in game development
+An intelligent travel planning application that leverages multi-agent AI systems to create personalized, comprehensive travel itineraries. Built with advanced AI algorithms to optimize travel experiences based on user preferences, budget, and time constraints.
 
-### 🤖 Trixie - AI Chatbot
-*TinkHack 2.0 Hackathon Project*
-- Developed an intelligent chatbot using JavaScript
-- Implemented natural language processing capabilities
-- Showcased AI/ML integration skills in competitive environment
+**Key Features:**
+- 🤖 Multi-agent AI system for intelligent planning
+- 📱 Mobile-first responsive design
+- 🗺️ Smart itinerary generation and optimization
+- 💰 Budget-aware travel recommendations
+- 🌍 Global destination coverage
+- ⚡ Real-time travel data integration
 
-### 🚗 AutoHub
-*Open Source Collaborative Project*
-- Java-based application for automotive solutions
-- Contributed to open-source development ecosystem
-- Demonstrates proficiency in Java programming and collaborative coding
-
-## 🌟 Leadership & Achievements
-
-- **Campus Lead** at GDC MEC - Leading the game development community
-- **Tech Lead** experience in game development projects
-- **Academic Excellence** - Maintaining 9.20 GPA in Computer Science
-- **NPTEL Topper** - Programming in Modern C++ certification
-- **Early Game Developer** - Started game development during high school
-
-## 💡 Core Competencies
-
-- **Game Design & Development** - Comprehensive experience across multiple engines
-- **Team Leadership** - Managing development teams and community initiatives
-- **Technical Mentorship** - Guiding aspiring developers in game programming
-- **Project Management** - Successfully delivering complex game projects
-- **Problem Solving** - Strong algorithmic thinking and system design skills
-
-## 📍 Location & Background
-
-- 🏛️ **Institution**: Govt. Model Engineering College, Kochi
-- 📍 **Location**: Kochi, Kerala, India
-- 🕐 **Timezone**: UTC +05:30
-- 🎂 **Profile**: Computer Science Graduate
-
-## 📊 GitHub Stats
-
-![Navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lionel-Logan&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Lionel-Logan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Tech Stack:** `FastAPI` `GenAI` `Python` `Mobile Development` `Multi-Agent Systems`
 
 ---
 
-💡 *"The best way to predict the future is to create it."* - Peter Drucker
+### 🎯 [Devils Reckoning](https://devilsreckoning.vercel.app)
+> **High-Fidelity Unreal Engine 5 Shooter/Thriller Video Game**
 
-⚡ **Fun fact**: I started my game development journey back in 11th grade and have been leading game development communities ever since. When I'm not coding, you'll find me exploring the latest game engines or mentoring the next generation of game developers!
+An immersive shooter/thriller experience built with Unreal Engine 5, featuring cutting-edge graphics, advanced gameplay mechanics, and atmospheric storytelling. Combines intense action sequences with psychological thriller elements.
 
-🎮 **Current Mission**: Bridging the gap between innovative technology and immersive gaming experiences while fostering a thriving game development community.
+**Key Features:**
+- 🎮 High-fidelity Unreal Engine 5 graphics
+- 🔫 Advanced shooter mechanics and combat systems
+- 🎭 Psychological thriller narrative elements
+- 🌟 State-of-the-art visual effects and lighting
+- 🎵 Immersive 3D audio design
+- 🏆 Competitive multiplayer capabilities
+
+**Tech Stack:** `Unreal Engine 5` `C++` `Blueprint` `3D Modeling` `Game Design`
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lionel-Logan&color=blueviolet)
+### 🚗 [AutoHub](https://github.com/Lionel-Logan/AutoHub)
+> **Comprehensive Automotive Platform Solution**
+
+A robust automotive management platform developed in Java, providing comprehensive solutions for automotive businesses and enthusiasts. Features advanced data management, user interfaces, and scalable architecture.
+
+**Key Features:**
+- 🚗 Complete automotive management system
+- 📊 Advanced data analytics and reporting
+- 👥 Multi-user role management
+- 🔧 Maintenance tracking and scheduling
+- 📱 Cross-platform compatibility
+- 🔐 Secure data handling and storage
+
+**Tech Stack:** `Java` `Object-Oriented Programming` `Database Management` `Software Architecture`
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lionel-Logan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Logan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lionel-Logan&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🏆 Achievements & Experience
+
+- 🎓 **Computer Science Engineering Student** at Govt. Model Engineering College
+- 🎮 **Game Development Specialist** with Unreal Engine expertise
+- 🏅 **Hackathon Participant** - TinkHack 2.0 (AI Chatbot Project)
+- 💻 **Multi-language Programmer** - Proficient in 6+ programming languages
+- 🎯 **Game & Gameplay Programming** specialist
+- 🌟 **Open Source Contributor** with active GitHub presence
+
+## 🎯 Current Focus Areas
+
+```mermaid
+mindmap
+  root((Lionel Logan))
+    Game Development
+      Unreal Engine
+      Unity Development
+      Gameplay Programming
+      3D Audio Systems
+    Software Engineering
+      Algorithm Design
+      System Architecture
+      Performance Optimization
+      Code Quality
+    AI & Innovation
+      Machine Learning
+      Chatbot Development
+      Natural Language Processing
+      Emerging Technologies
+    Academic Growth
+      Computer Science
+      Software Engineering
+      Project Management
+      Team Collaboration
+```
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-ranjish-pillai-50a612257)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lionel-Logan)
+[![Profile Views](https://komarev.com/ghpvc/?username=Lionel-Logan&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/Lionel-Logan)
+
+</div>
+
+## 💼 What I'm Working On
+
+- 🎮 **Game Development Projects**: Creating immersive gaming experiences with Unity and Unreal Engine
+- 🤖 **AI Integration**: Exploring AI applications in game development and interactive systems
+- 📚 **Academic Excellence**: Pursuing advanced computer science concepts and practical applications
+- 🌟 **Open Source Contributions**: Contributing to the developer community through shared projects
+- 🚀 **Skill Enhancement**: Continuously learning new technologies and development methodologies
+
+## 🎯 Goals & Vision
+
+As an aspiring **Computer Engineer** and **Game Developer**, I'm committed to:
+
+- 🎮 Creating innovative and engaging gaming experiences
+- 💻 Developing robust software solutions that make a real impact
+- 🌟 Contributing to the open-source community
+- 📈 Continuously learning and adapting to emerging technologies
+- 🤝 Collaborating with fellow developers to build amazing projects
+
+---
+
+<div align="center">
+
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Let's build something amazing together!** 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
