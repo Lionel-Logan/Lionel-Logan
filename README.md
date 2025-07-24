@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Game+Developer+%26+Computer+Engineer;Unreal+Engine+Specialist;Full-Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Game+Developer+%26+Computer+Engineer;Unreal+Engine+Specialist;Backend+Developer;AI+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -101,16 +101,6 @@ A robust automotive management platform developed in Java, providing comprehensi
 - 🔐 Secure data handling and storage
 
 **Tech Stack:** `Java` `Object-Oriented Programming` `Database Management` `Software Architecture`
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lionel-Logan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Logan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lionel-Logan&theme=tokyonight&hide_border=true)
 
 </div>
 
