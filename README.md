@@ -33,11 +33,9 @@ I'm a **B.Tech Computer Science and Engineering** student at **Govt. Model Engin
 ### Game Development
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)](https://github.com/microsoft/TypeScript)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### AI & Machine Learning
@@ -49,12 +47,13 @@ I'm a **B.Tech Computer Science and Engineering** student at **Govt. Model Engin
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/idea/)
 
 </div>
 
 ## 🎮 Featured Projects
 
-### 🧳 [SyncTrek](https://navneetranjishpillai.vercel.app)
+### 🧳 [SyncTrek](https://synctrek.vercel.app)
 > **Personal Multi-Agent AI Powered Itinerary Generation Mobile App**
 
 An intelligent travel planning application that leverages multi-agent AI systems to create personalized, comprehensive travel itineraries. Built with advanced AI algorithms to optimize travel experiences based on user preferences, budget, and time constraints.
@@ -145,7 +144,7 @@ mindmap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-ranjish-pillai-50a612257)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lionel-Logan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=semantic-release&logoColor=white)](https://navneetranjishpillai.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Lionel-Logan&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/Lionel-Logan)
 
 </div>
@@ -171,10 +170,6 @@ As an aspiring **Computer Engineer** and **Game Developer**, I'm committed to:
 ---
 
 <div align="center">
-
-### "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-**Let's build something amazing together!** 🚀
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
