@@ -51,67 +51,6 @@ I'm a **B.Tech Computer Science and Engineering** student at **Govt. Model Engin
 
 </div>
 
-## 🎮 Featured Projects
-
-### 🧳 [SyncTrek](https://synctrek.vercel.app)
-> **Personal Multi-Agent AI Powered Itinerary Generation Mobile App**
-
-An intelligent travel planning application that leverages multi-agent AI systems to create personalized, comprehensive travel itineraries. Built with advanced AI algorithms to optimize travel experiences based on user preferences, budget, and time constraints.
-
-**Key Features:**
-- 🤖 Multi-agent AI system for intelligent planning
-- 📱 Mobile-first responsive design
-- 🗺️ Smart itinerary generation and optimization
-- 💰 Budget-aware travel recommendations
-- 🌍 Global destination coverage
-- ⚡ Real-time travel data integration
-
-**Tech Stack:** `FastAPI` `GenAI` `Python` `Mobile Development` `Multi-Agent Systems`
-
----
-
-### 🎯 [Devils Reckoning](https://devilsreckoning.vercel.app)
-> **High-Fidelity Unreal Engine 5 Shooter/Thriller Video Game**
-
-An immersive shooter/thriller experience built with Unreal Engine 5, featuring cutting-edge graphics, advanced gameplay mechanics, and atmospheric storytelling. Combines intense action sequences with psychological thriller elements.
-
-**Key Features:**
-- 🎮 High-fidelity Unreal Engine 5 graphics
-- 🔫 Advanced shooter mechanics and combat systems
-- 🎭 Psychological thriller narrative elements
-- 🌟 State-of-the-art visual effects and lighting
-- 🎵 Immersive 3D audio design
-
-**Tech Stack:** `Unreal Engine 5` `Blueprint` `Game Design`
-
----
-
-### 🚗 [AutoHub](https://github.com/Lionel-Logan/AutoHub)
-> **Comprehensive Automotive Platform Solution**
-
-A robust automotive management platform developed in Java, providing comprehensive solutions for automotive businesses and enthusiasts. Features advanced data management, user interfaces, and scalable architecture.
-
-**Key Features:**
-- 🚗 Complete automotive management system
-- 📊 Advanced data analytics and reporting
-- 👥 Multi-user role management
-- 🔧 Maintenance tracking and scheduling
-- 📱 Cross-platform compatibility
-- 🔐 Secure data handling and storage
-
-**Tech Stack:** `Java` `Object-Oriented Programming` `Database Management` `Software Architecture`
-
-</div>
-
-## 🏆 Achievements & Experience
-
-- 🎓 **Computer Science Engineering Student** at Govt. Model Engineering College
-- 🎮 **Game Development Specialist** with Unreal Engine expertise
-- 🏅 **Hackathon Participant** - TinkHack 2.0 (AI Chatbot Project)
-- 💻 **Multi-language Programmer** - Proficient in 6+ programming languages
-- 🎯 **Game & Gameplay Programming** specialist
-- 🌟 **Open Source Contributor** with active GitHub presence
-
 ## 🎯 Current Focus Areas
 
 ```mermaid
